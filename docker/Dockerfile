@@ -2,7 +2,7 @@
 #
 # VERSION 0.0.3
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 MAINTAINER Alexey Lavrenuke <direvius@yandex-team.ru>
 # Version for desription
 ARG VERSION
